@@ -9,11 +9,7 @@ export default function Team() {
         <h1 className="mt-5 mb-5">Our Team</h1>
         <div className="row">
           <div className="col">
-            <img
-              src="src\images\brandi.png"
-              className="img-fluid"
-              alt="..."
-            ></img>
+            <img src="public\brandi.png" className="img-fluid" alt="..."></img>
             <h2 className="mt-3">Brandi Schaich, CPC, CPB</h2>
             <p>
               Brandi has been in the medical billing industry since 2012,
@@ -27,15 +23,11 @@ export default function Team() {
               Academy of Professional Coders (AAPC). She became certified in
               January 2017 nd has been coding ever since. Most recently, Brandi
               passed the Certified Professional Biller exam through the AAPC,
-              earning her the CPB credential.{" "}
+              earning her the CPB credential.
             </p>
           </div>
           <div className="col">
-            <img
-              src="src\images\stevy.png"
-              className="img-fluid"
-              alt="..."
-            ></img>
+            <img src="public\stevy.png" className="img-fluid" alt="..."></img>
             <h2 className="mt-3">Stevy Barrett, CPB, CPC</h2>
             <p>
               Stevy joined the medical industry in 2016 after completing courses
@@ -51,7 +43,7 @@ export default function Team() {
               billing procedures, as well as updates to front office processes.
               Stevy was also instrumental in obtaining new contracts with
               various insurance companies for current and new providers as
-              necessary.{" "}
+              necessary.
             </p>
           </div>
         </div>

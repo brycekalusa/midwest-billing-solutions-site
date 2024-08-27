@@ -143,7 +143,7 @@ export default function ContactModal() {
                         <input
                           type="hidden"
                           name="_next"
-                          value="http://localhost:5173/thanks"
+                          value="https://midwestbillingsolutions.netlify.app/thanks"
                         ></input>
                         <input
                           type="hidden"
