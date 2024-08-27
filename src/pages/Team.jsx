@@ -9,7 +9,7 @@ export default function Team() {
         <h1 className="mt-5 mb-5">Our Team</h1>
         <div className="row">
           <div className="col">
-            <img src="public\brandi.png" className="img-fluid" alt="..."></img>
+            <img src="/brandi.png" className="img-fluid" alt="..."></img>
             <h2 className="mt-3">Brandi Schaich, CPC, CPB</h2>
             <p>
               Brandi has been in the medical billing industry since 2012,
@@ -27,7 +27,7 @@ export default function Team() {
             </p>
           </div>
           <div className="col">
-            <img src="public\stevy.png" className="img-fluid" alt="..."></img>
+            <img src="/stevy.png" className="img-fluid" alt="..."></img>
             <h2 className="mt-3">Stevy Barrett, CPB, CPC</h2>
             <p>
               Stevy joined the medical industry in 2016 after completing courses

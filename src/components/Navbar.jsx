@@ -47,13 +47,13 @@ export default function Navbar() {
                 className="px-2"
                 href="https://www.facebook.com/midwestbilling"
               >
-                <img src="public\facebook.svg" style={{ height: "50%" }}></img>
+                <img src="/facebook.svg" style={{ height: "50%" }}></img>
               </a>
               <a
                 className="px-2"
                 href="https://www.instagram.com/midwestbilling/"
               >
-                <img src="public\instagram.svg" style={{ height: "50%" }}></img>
+                <img src="/instagram.svg" style={{ height: "50%" }}></img>
               </a>
             </div>
           </div>
